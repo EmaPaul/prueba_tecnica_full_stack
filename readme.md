@@ -4,9 +4,9 @@
 Se realizo una un app full Stack de tareas usando node y express en el back y en el front Nuxt.js
 
 # Back: instrucciones
-Para levantar el proyecto por el lado de back, se debe crear una base de datos en MongoDB y a su ves crear un archivo .env en la raiz del proyecto. en este caso ya esta creada y solo se debe pegar en el archivo la siguiente variable:
+Para levantar el proyecto por el lado de back, se debe crear una base de datos en MongoDB y a su ves crear un archivo .env en la raiz del proyecto. se debe pegar esta variable con el siguiente formato:
 ```
-MONGODB_URI_PROD= mongodb+srv://api-task-node-express:YnwBn8l9ted6c2na@cluster0.qzj5t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI_PROD= "Tu base de datos de mongo"
 
 // base de datos creada con fines de prueba
 
