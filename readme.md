@@ -73,7 +73,7 @@ para mayor comodidad se deployo para tener una vista de prueba de los Endpoints.
 
 
 
-# Front
+# Front: Instrucciones
 
 Para levantar el front de debe instalar la dependencias necesarias con el siguiente comando:
 ```
