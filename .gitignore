@@ -1,0 +1,6 @@
+mongo
+package-lock.json
+.env
+node_modules
+.vercel
+vercel.json
