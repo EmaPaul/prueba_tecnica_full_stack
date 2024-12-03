@@ -126,13 +126,19 @@ router.use((req, res, next) => {
 # Front
 Para el front se aplico mejoras, como el manejo de errores y el debounce de busqueda para ubicar de forma mas precisa las tareas, aplicando a su ves tailwind para darle estilos mas presentables a la pagina utilizando un poco de css a la par. Implementando a su ves algunos efectos para la decoracion de la pagina.
 
+# Links
 
 ### link de los deploys
 link del front: https://front-part-1.vercel.app
 
 link del back: https://back-task-parte1.vercel.app
 
-### Capturas
+### Repositorio de los deploys:
+front: https://github.com/EmaPaul/front_part_1
+
+back: https://github.com/EmaPaul/back-task-parte1
+
+# Capturas
 
 ### Inicio
 ![alt text](image.png)
