@@ -138,6 +138,8 @@ front: https://github.com/EmaPaul/front_part_1
 
 back: https://github.com/EmaPaul/back-task-parte1
 
+### Nota: Se juntaron en este repositorio el back y el front con propositos de revision para la prueba, por ello se adjunta por separado el link de cada repositorio tanto del back como del front si se quiere tener mas detalle del mismo.
+
 # Capturas
 
 ### Inicio
